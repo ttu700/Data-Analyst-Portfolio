@@ -1,4 +1,5 @@
-## Tech Stack for Projects
+This portfolio has moved to my profile: https://github.com/ttu700
+<!--## Tech Stack for Projects
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,7 +63,7 @@ Embarked on a Python data analysis journey with projects ranging from a concise 
 ## [Project 7: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 Stroke prediction Analysis predicts the likelihood of a stroke for an individual depending on their age, BMI, smoking status, gender, and other various diseases.
 
-## Contact Information
+## Contact Information-->
 
 If you have any questions, please feel free to reach out to me. You can contact me via email at [terry.tu700gmail.com](mailto:terry.tu700gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tuterry/)
 
